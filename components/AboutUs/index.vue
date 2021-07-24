@@ -9,7 +9,7 @@
         />
         <img
           loading="lazy"
-          src="https://cdn.tuk.dev/assets/templates/foodies/about-us-1.png"
+          src="../../assets/images/logo.jpg"
           class="mt-8 ml-8 relative z-10 abt-us-img"
         />
         <div
@@ -30,20 +30,20 @@
               text-lg
               font-semibold
               leading-snug
-              text-justify text-color-orange
+              text-justify text-color-green
               mr-2
             "
           >
             Homemade Foods
           </p>
-          <hr class="w-12 bg-color-orange h-1 border-color-orange mr-8" />
+          <hr class="w-12 bg-color-green h-1 border-color-green mr-8" />
         </div>
       </div>
       <div class="about-us-card py-14 px-7 border border-color-black mx-10">
         <p class="text-2xl font-bold text-black text-center">About Us</p>
         <p class="text-base leading-7 text-justify text-color-gray pt-4">
           স্বাস্থ্যসম্মত এবং সম্পূর্ন হোমমেড রান্না করা খাবার পেতে আমাদের সাথে
-          থাকুন। আমাদের পেজের মাধ্যমে পাবেন প্রায় ৮৫ রকম ভর্তা,১২ রকম ডাল, ১৫
+          থাকুন। আমাদের পেজের মাধ্যমে পাবেন প্রায় ১০০ রকম ভর্তা, ১২ রকম ডাল, ১৫
           রকম ভাজী,শাক সবজি সহ মুখরোচক প্রায় ৫০ রকম কারী, সেট মেন্যু হরেক রকম,
           ডেজার্ট, পিঠা, ফ্রোজেন ফুড আইটেমসহ আপনাদের পছন্দ মতন প্রায় সব ধরনের
           দেশী ফুড সহ সব রকম খাবার।
@@ -73,13 +73,13 @@
             -mr-14
           "
         >
-          <hr class="w-12 bg-color-orange h-1 border-color-orange mr-2" />
+          <hr class="w-12 bg-color-green h-1 border-color-green mr-2" />
           <p
             class="
               text-lg
               font-semibold
               leading-snug
-              text-justify text-color-orange
+              text-justify text-color-green
               mr-8
             "
           >
@@ -91,18 +91,15 @@
     <!-- mobile -->
     <div class="items-center justify-center xl:hidden flex flex-col px-4">
       <div class="">
-        <img
-          loading="lazy"
-          src="https://cdn.tuk.dev/assets/templates/foodies/about-us-1.png"
-        />
+        <img loading="lazy" src="../../assets/images/logo.jpg" />
         <div class="flex items-center justify-end my-2">
-          <hr class="w-12 bg-color-orange h-1 border-color-orange mr-8" />
+          <hr class="w-12 bg-color-green h-1 border-color-green mr-8" />
           <p
             class="
               text-lg
               font-semibold
               leading-snug
-              text-justify text-color-orange
+              text-justify text-color-green
               mr-2
             "
           >
@@ -114,7 +111,7 @@
         <p class="text-2xl font-bold text-black text-center">About Us</p>
         <p class="text-base leading-7 text-justify text-color-gray pt-4">
           স্বাস্থ্যসম্মত এবং সম্পূর্ন হোমমেড রান্না করা খাবার পেতে আমাদের সাথে
-          থাকুন। আমাদের পেজের মাধ্যমে পাবেন প্রায় ৮৫ রকম ভর্তা,১২ রকম ডাল, ১৫
+          থাকুন। আমাদের পেজের মাধ্যমে পাবেন প্রায় ১০০ রকম ভর্তা, ১২ রকম ডাল, ১৫
           রকম ভাজী,শাক সবজি সহ মুখরোচক প্রায় ৫০ রকম কারী, সেট মেন্যু হরেক রকম,
           ডেজার্ট, পিঠা,ফ্রোজেন ফুড আইটেমসহ আপনাদের পছন্দ মতন প্রায় সব ধরনের
           দেশী ফুড সহ সব রকম খাবার।
@@ -124,13 +121,13 @@
       <div class="">
         <img loading="lazy" src="../../assets/images/owner.jpg" />
         <div class="flex items-center justify-end right-0 top-0 my-2">
-          <hr class="w-12 bg-color-orange h-1 border-color-orange mr-8" />
+          <hr class="w-12 bg-color-green h-1 border-color-green mr-8" />
           <p
             class="
               text-lg
               font-semibold
               leading-snug
-              text-justify text-color-orange
+              text-justify text-color-green
             "
           >
             Owner

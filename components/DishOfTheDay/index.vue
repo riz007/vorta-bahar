@@ -1,7 +1,7 @@
 <template>
   <div class="mx-auto container relative z-40 xl:px-0 px-4">
     <div class="flex items-center justify-center">
-      <hr class="w-2.5 h-16 bg-color-orange" />
+      <hr class="w-2.5 h-16 bg-color-green" />
       <h1 class="text-4xl font-bold text-color-black pl-7">
         Dish<span class="text-2xl font-normal"> of the Day</span>
       </h1>

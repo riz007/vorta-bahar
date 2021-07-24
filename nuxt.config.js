@@ -42,7 +42,10 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    'nuxt-i18n',
   ],
+
+  i18n: {},
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},

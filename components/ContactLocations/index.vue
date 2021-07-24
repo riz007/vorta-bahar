@@ -1,7 +1,7 @@
 <template>
   <div class="mx-auto container lg:mt-32 lg:px-52 px-4 mt-16">
     <div class="flex items-center justify-center">
-      <hr class="w-2.5 h-16 bg-color-orange" />
+      <hr class="w-2.5 h-16 bg-color-green" />
       <h1 class="text-3xl font-bold text-color-black pl-7">Location</h1>
     </div>
     <div class="lg:mt-16 mt-8 lg:flex items-end">

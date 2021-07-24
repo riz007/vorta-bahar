@@ -14,21 +14,21 @@
       >
         <img
           loading="lazy"
-          src="https://cdn.tuk.dev/assets/templates/foodies/menu-hero.png"
-          class="w-full h-full absolute"
+          src="../../assets/images/menu-header.jpg"
+          class="w-full h-full absolute opacity-50"
         />
         <button
           class="
             text-5xl text-white
             rounded-lg
-            bg-color-orange
+            bg-color-green
             px-14
             py-2
             relative
             hover:opacity-90
           "
         >
-          MENU CARD
+          Our Menu
         </button>
       </div>
     </div>
@@ -48,21 +48,21 @@
     >
       <img
         loading="lazy"
-        src="https://cdn.tuk.dev/assets/templates/foodies/menu-hero.png"
-        class="w-full h-full absolute"
+        src="../../assets/images/menu-header.jpg"
+        class="w-full h-full absolute opacity-50"
       />
       <button
         class="
           text-base text-white
           rounded-lg
-          bg-color-orange
+          bg-color-green
           px-6
           py-2
           relative
           hover:opacity-90
         "
       >
-        MENU CARD
+        Our Menu
       </button>
     </div>
   </div>

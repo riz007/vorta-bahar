@@ -19,18 +19,15 @@
           class="lg:flex hidden items-center justify-between py-12 xl:px-0 px-4"
         >
           <NuxtLink to="/">
-            <img
-              loading="lazy"
-              src="../../assets/images/logo.png"
-              class="w-44"
-              alt="logo"
-            />
+            <span class="justify-between px-4 text-2xl text-color-green"
+              >ভর্তা বাহার ও ফুড কেটারীং
+            </span>
           </NuxtLink>
           <ul class="flex leading-loose">
             <NuxtLink to="/">
               <li
                 :class="[
-                  { 'text-color-orange': $route.path === '/' },
+                  { 'text-color-green': $route.path === '/' },
                   { 'text-color-black': $route.path !== '/' },
                 ]"
                 class="
@@ -47,8 +44,8 @@
                 <hr
                   v-if="$route.path === '/'"
                   class="
-                    border-4 border-color-orange
-                    bg-color-orange
+                    border-4 border-color-green
+                    bg-color-green
                     w-10
                     absolute
                     right-0
@@ -59,7 +56,7 @@
             <NuxtLink to="/menu">
               <li
                 :class="[
-                  { 'text-color-orange': $route.path === '/menu' },
+                  { 'text-color-green': $route.path === '/menu' },
                   { 'text-color-black': $route.path !== '/menu' },
                 ]"
                 class="
@@ -67,7 +64,7 @@
                   text-xl
                   leading-8
                   mr-10
-                  text-color-orange
+                  text-color-green
                   relative
                   font-normal
                   cursor-pointer
@@ -78,8 +75,8 @@
                 <hr
                   v-if="$route.path === '/menu'"
                   class="
-                    border-4 border-color-orange
-                    bg-color-orange
+                    border-4 border-color-green
+                    bg-color-green
                     w-10
                     absolute
                     right-0
@@ -87,28 +84,10 @@
                 />
               </li>
             </NuxtLink>
-            <a href="#">
-              <li
-                class="
-                  text-2xl
-                  leading-8
-                  mr-10
-                  text-color-black
-                  flex flex-col
-                  items-end
-                  justify-end
-                  font-normal
-                  cursor-pointer
-                  text-hover
-                "
-              >
-                About
-              </li>
-            </a>
             <NuxtLink to="/contact">
               <li
                 :class="[
-                  { 'text-color-orange': $route.path === '/contact' },
+                  { 'text-color-green': $route.path === '/contact' },
                   { 'text-color-black': $route.path !== '/contact' },
                 ]"
                 class="
@@ -116,7 +95,7 @@
                   text-xl
                   leading-8
                   mr-10
-                  text-color-orange
+                  text-color-green
                   relative
                   font-normal
                   cursor-pointer
@@ -127,8 +106,8 @@
                 <hr
                   v-if="$route.path === '/contact'"
                   class="
-                    border-4 border-color-orange
-                    bg-color-orange
+                    border-4 border-color-green
+                    bg-color-green
                     w-10
                     absolute
                     right-0
@@ -144,12 +123,9 @@
       <nav class="lg:hidden z-40 relative">
         <div class="flex py-4 justify-between items-center px-4">
           <div>
-            <img
-              loading="lazy"
-              src="../../assets/images/logo.png"
-              alt="logo"
-              class="w-24"
-            />
+            <span class="justify-between px-4 text-2xl text-color-green"
+              >ভর্তা বাহার ও ফুড কেটারীং
+            </span>
           </div>
           <div class="visible flex items-center">
             <ul

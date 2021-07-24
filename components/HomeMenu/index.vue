@@ -2,7 +2,7 @@
   <div>
     <div class="mx-auto container z-40 lg:mt-40 mt-20 lg:px-0 px-4">
       <div class="flex items-center justify-center">
-        <hr class="w-2.5 h-16 bg-color-orange" />
+        <hr class="w-2.5 h-16 bg-color-green" />
         <h1 class="text-4xl font-bold text-color-black pl-7">
           <span class="text-2xl font-normal">Take a look at our </span>Menu
         </h1>
@@ -94,10 +94,10 @@
             text-base
             font-semibold
             leading-loose
-            text-color-orange
+            text-color-green
             focus:outline-none
             button-transparent
-            border-2 border-color-orange
+            border-2 border-color-green
             b-r-10
             lg:mr-10
           "

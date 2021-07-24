@@ -18,12 +18,14 @@
             lg:block
             hidden
             leading-115
-            border-l-8 border-color-orange
+            border-l-8 border-color-green
             pl-12
           "
         >
           Craving for<br />
-          <span class="2xl:text-8xl text-7xl font-bold"> Delicious Food? </span>
+          <span class="2xl:text-8xl text-7xl font-bold text-color-green">
+            Delicious &amp; Healthy Food?
+          </span>
         </h1>
         <h1
           class="
@@ -31,31 +33,42 @@
             lg:hidden
             block
             leading-8
-            border-l-8 border-color-orange
+            border-l-8 border-color-green
             pl-2
             xl:mt-0
             mt-8
           "
         >
           Craving for<br />
-          <span class="text-4xl font-bold"> Delicious Food? </span>
+          <span class="text-4xl font-bold text-color-green">
+            Delicious &amp; Healthy Food?
+          </span>
         </h1>
         <h1
           class="
             lg:text-2xl
-            text-lg text-color-gray
+            text-lg
             lg:leading-8
             leading-6
             mt-6
-            border-l-8 border-color-orange
+            border-l-8 border-color-green
             lg:pl-12
             pl-2
             py-2
           "
         >
-          Here is what you always need. View our food collection and order yummy
-          and healthy food within minutes. You only live once, lick the bowl.
-          Contact us via 01751491243 or follow our facebook page.
+          Vorta Bahar is here to cater you with more than 100 types of Desi
+          bhortas! We cook all type of foods and also accept customized orders.
+          Call right now @
+          <a href="tel:01751491243" class="text-color-green">01751491243</a> or
+          follow our
+          <a
+            href="https://www.facebook.com/byRubydaRakhee"
+            target="_blank"
+            rel="noopener"
+            class="text-color-green"
+            >facebook page.</a
+          >
         </h1>
         <div class="flex items-center justify-center mt-12">
           <NuxtLink to="/menu">
@@ -65,7 +78,7 @@
                 py-2
                 xl:px-16
                 px-6
-                bg-color-orange
+                bg-color-green
                 2xl:text-3xl
                 lg:text-xl
                 text-base
@@ -74,7 +87,7 @@
                 text-white
                 focus:outline-none
                 hover:opacity-90
-                border-2 border-color-orange
+                border-2 border-color-green
                 b-r-10
                 mr-10
               "
@@ -88,16 +101,16 @@
               py-2
               xl:px-16
               px-6
-              border-color-orange
+              border-color-green
               2xl:text-3xl
               lg:text-xl
               text-base
               font-semibold
               leading-loose
-              text-color-orange
+              text-color-green
               focus:outline-none
               button-transparent
-              border-2 border-color-orange
+              border-2 border-color-green
               b-r-10
             "
           >
@@ -127,7 +140,6 @@
               class="
                 w-12
                 h-12
-                bg-white
                 fb-hover
                 flex
                 items-center
@@ -159,7 +171,6 @@
               class="
                 w-12
                 h-12
-                bg-white
                 fb-hover
                 flex
                 items-center
@@ -252,14 +263,14 @@
       <div class="lg:w-1/2 height-main-hero xl:block hidden">
         <img
           loading="lazy"
-          src="https://i.ibb.co/qRq3XKm/hero1.png"
+          src="../../assets/images/food-photo.png"
           class="w-full"
         />
       </div>
       <div class="xl:w-1/2 xl:hidden block">
         <img
           loading="lazy"
-          src="https://i.ibb.co/qRq3XKm/hero1.png"
+          src="../../assets/images/food-photo.png"
           class="object-cover"
         />
       </div>

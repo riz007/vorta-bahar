@@ -1,11 +1,13 @@
 <template>
   <div
-    class="bg-color-black py-16 flex flex-col items-center justify-center f-f-l"
+    class="bg-color-green py-16 flex flex-col items-center justify-center f-f-l"
   >
-    <div class="w-44">
-      <img loading="lazy" src="../../assets/images/logo.png" />
+    <div>
+      <span class="justify-between px-4 text-2xl text-white"
+        >ভর্তা বাহার ও ফুড কেটারীং
+      </span>
     </div>
-    <div class="flex items-center py-12">
+    <div class="flex items-center py-4">
       <a class="cursor-pointer" href="#"
         ><svg
           xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +68,7 @@
           <li
             class="
               lg:text-lg
-              text-sm text-sm
+              text-sm
               leading-5
               lg:mr-10
               mr-2
@@ -76,7 +78,6 @@
               justify-end
               font-normal
               cursor-pointer
-              text-hover
             "
           >
             Home
@@ -86,7 +87,7 @@
           <li
             class="
               lg:text-lg
-              text-sm text-sm
+              text-sm
               leading-5
               lg:mr-10
               mr-2
@@ -94,37 +95,16 @@
               relative
               font-normal
               cursor-pointer
-              text-hover
             "
           >
             Menu
           </li>
         </NuxtLink>
-        <a href="#">
-          <li
-            class="
-              lg:text-lg
-              text-sm text-sm
-              leading-5
-              lg:mr-10
-              mr-2
-              text-white
-              flex flex-col
-              items-end
-              justify-end
-              font-normal
-              cursor-pointer
-              text-hover
-            "
-          >
-            About
-          </li>
-        </a>
         <NuxtLink to="/contact">
           <li
             class="
               lg:text-lg
-              text-sm text-sm
+              text-sm
               leading-5
               lg:mr-10
               mr-2
@@ -134,7 +114,6 @@
               justify-end
               font-normal
               cursor-pointer
-              text-hover
             "
           >
             Contact
@@ -142,14 +121,9 @@
         </NuxtLink>
       </ul>
     </div>
-    <div class="pt-16 flex lg:items-start items-center">
-      <img
-        loading="lazy"
-        src="https://cdn.tuk.dev/assets/templates/foodies/tm.png"
-        class="pr-4"
-      />
+    <div class="pt-10 flex lg:items-start items-center">
       <p class="lg:text-base text-xs text-white leading-5">
-        2021 Vorta Bahar, All rights reserved
+        &copy; 2021 Vorta Bahar, All rights reserved
       </p>
     </div>
   </div>

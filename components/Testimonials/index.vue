@@ -2,7 +2,7 @@
   <div>
     <div class="mx-auto container mt-44 xl:block hidden">
       <div class="flex items-center justify-center">
-        <hr class="w-2.5 h-16 bg-color-orange" />
+        <hr class="w-2.5 h-16 bg-color-green" />
         <h1 class="text-4xl font-bold text-color-black pl-7">
           <span class="text-2xl font-normal"> Hear from Our </span>Customers
         </h1>
@@ -32,11 +32,6 @@
               class="w-5/12 relative mr-10 h-full mt-16"
             >
               <div class="relative h-96">
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-right.png"
-                  class="absolute right-0 -mt-3 z-0 2xl:h-full h-80"
-                />
                 <div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -160,20 +155,6 @@
                     ></path>
                   </svg>
                 </div>
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-left.png"
-                  class="
-                    absolute
-                    2xl:h-full
-                    h-80
-                    left-0
-                    bottom-0
-                    z-0
-                    2xl:h-full
-                    h-80
-                  "
-                />
               </div>
             </div>
           </div>
@@ -184,11 +165,6 @@
               class="w-5/12 relative mr-10 h-full mt-16"
             >
               <div class="relative h-96">
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-right.png"
-                  class="absolute 2xl:h-full h-80 right-0 -mt-3 z-0"
-                />
                 <div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -311,18 +287,12 @@
                     ></path>
                   </svg>
                 </div>
-
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-left.png"
-                  class="absolute 2xl:h-full h-80 left-0 bottom-0 z-0"
-                />
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="flex items-center justify-end mr-28">
+      <div class="flex items-center justify-end mr-28 mb-12">
         <div
           id="prev"
           class="
@@ -418,7 +388,7 @@
     <!-- Mobile Responsive -->
     <div class="mx-auto container mt-44 xl:hidden block px-4">
       <div class="flex items-center justify-center">
-        <hr class="w-2.5 h-16 bg-color-orange" />
+        <hr class="w-2.5 h-16 bg-color-green" />
         <h1 class="text-4xl font-bold text-color-black pl-7">
           <span class="text-2xl font-normal"> Hear from Our </span>Customers
         </h1>
@@ -428,11 +398,6 @@
           <div class="flex relative" style="transform: translateX(-100%)">
             <div class="relative h-full mt-16">
               <div class="relative">
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-right.png"
-                  class="absolute right-0 -mt-3 z-0 w-48"
-                />
                 <div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -560,23 +525,12 @@
                     ></path>
                   </svg>
                 </div>
-
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-left.png"
-                  class="absolute left-0 bottom-0 z-0 w-48"
-                />
               </div>
             </div>
           </div>
           <div class="flex relative" style="transform: translateX(0%)">
             <div class="relative h-full mt-16">
               <div class="relative">
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-right.png"
-                  class="absolute right-0 -mt-3 z-0 w-48"
-                />
                 <div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -704,12 +658,6 @@
                     ></path>
                   </svg>
                 </div>
-
-                <img
-                  loading="lazy"
-                  src="https://cdn.tuk.dev/assets/templates/foodies/testi-left.png"
-                  class="absolute left-0 bottom-0 z-0 w-48"
-                />
               </div>
             </div>
           </div>
