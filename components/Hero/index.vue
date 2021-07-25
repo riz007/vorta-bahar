@@ -166,7 +166,12 @@
           </a>
         </div>
         <div class="flex mt-12 items-center justify-center md:hidden">
-          <a href="#" class="cursor-pointer">
+          <a
+            href="https://www.facebook.com/byRubydaRakhee"
+            class="cursor-pointer"
+            target="_blank"
+            rel="noopener"
+          >
             <div
               class="
                 w-12
@@ -192,69 +197,6 @@
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 ></path>
-              </svg>
-            </div>
-          </a>
-          <a href="#" class="cursor-pointer"
-            ><div
-              class="
-                w-12
-                h-12
-                bg-white
-                mx-6
-                twitter-hover
-                flex
-                items-center
-                justify-center
-                shadow-xl
-                rounded-full
-              "
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="36"
-                height="28"
-                viewBox="0 0 36 28"
-                fill="white"
-              >
-                <path
-                  d="M34.6667 0.683417C33 1.50008 31.3667 1.83175 29.6667 2.33342C27.7983 0.225083 25.0283 0.108417 22.3667 1.10508C19.705 2.10175 17.9617 4.53842 18 7.33342V9.00008C12.5917 9.13842 7.775 6.67508 4.66667 2.33342C4.66667 2.33342 -2.30333 14.7218 11.3333 20.6668C8.21333 22.7451 5.10167 24.1468 1.33333 24.0001C6.84667 27.0051 12.855 28.0384 18.0567 26.5284C24.0233 24.7951 28.9267 20.3234 30.8083 13.6251C31.3697 11.5879 31.6484 9.48318 31.6367 7.37008C31.6333 6.95508 34.1533 2.75008 34.6667 0.68175V0.683417Z"
-                  stroke="#0F0F0F"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                ></path>
-              </svg></div
-          ></a>
-          <a class="cursor-pointer" href="#">
-            <div
-              class="
-                w-12
-                h-12
-                bg-white
-                shadow-xl
-                rounded-full
-                flex
-                items-center
-                justify-center
-                insta-hover
-              "
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="icon icon-tabler icon-tabler-brand-instagram"
-                width="38"
-                height="38"
-                viewBox="0 0 24 24"
-                stroke-width="0.75"
-                stroke="#0F0F0F"
-                fill="white"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                <rect x="4" y="4" width="16" height="16" rx="4"></rect>
-                <circle cx="12" cy="12" r="3"></circle>
-                <line x1="16.5" y1="7.5" x2="16.5" y2="7.501"></line>
               </svg>
             </div>
           </a>

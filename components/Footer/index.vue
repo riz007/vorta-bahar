@@ -8,7 +8,11 @@
       </span>
     </div>
     <div class="flex items-center py-4">
-      <a class="cursor-pointer" href="#"
+      <a
+        class="cursor-pointer"
+        href="https://www.facebook.com/byRubydaRakhee"
+        target="_blank"
+        rel="noopener"
         ><svg
           xmlns="http://www.w3.org/2000/svg"
           width="13"

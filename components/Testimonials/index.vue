@@ -59,7 +59,7 @@
                   <div class="pt-16">
                     <img
                       loading="lazy"
-                      src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                      src="../../assets/images/man.png"
                       class="w-16 h-16 rounded-full object-cover object-center"
                     />
                   </div>
@@ -192,7 +192,7 @@
                   <div class="pt-16">
                     <img
                       loading="lazy"
-                      src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                      src="../../assets/images/woman.png"
                       class="w-16 h-16 rounded-full object-cover object-center"
                     />
                   </div>
@@ -425,7 +425,7 @@
                   <div class="pt-16">
                     <img
                       loading="lazy"
-                      src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                      src="../../assets/images/woman.png"
                       class="w-16 h-16 rounded-full object-cover object-center"
                     />
                   </div>
@@ -503,10 +503,9 @@
                         pb-12
                       "
                     >
-                      Here is what you always need. View our food collection and
-                      order yummy and healthy food within minutes. Here is what
-                      you always need. View our food collection and order yummy
-                      and healthy food within minutes.
+                      In one sentence - Their 'Bhortas' live up to their company
+                      name. All items that I ordered were really tasty.
+                      Definitely recommend their service. Great food!
                     </p>
                   </div>
                 </div>
@@ -558,7 +557,7 @@
                   <div class="pt-16">
                     <img
                       loading="lazy"
-                      src="https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                      src="../../assets/images/man.png"
                       class="w-16 h-16 rounded-full object-cover object-center"
                     />
                   </div>
@@ -636,10 +635,8 @@
                         pb-12
                       "
                     >
-                      Here is what you always need. View our food collection and
-                      order yummy and healthy food within minutes. Here is what
-                      you always need. View our food collection and order yummy
-                      and healthy food within minutes.
+                      Great food with outstanding hospitality. I will recommend
+                      everyone to order from here if you like deshi food.
                     </p>
                   </div>
                 </div>
@@ -663,7 +660,7 @@
           </div>
         </div>
       </div>
-      <div class="flex items-center justify-center">
+      <div class="flex items-center justify-center mb-12">
         <div
           id="prev2"
           class="
