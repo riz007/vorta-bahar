@@ -1,7 +1,7 @@
 import Vue from 'vue'
 
 const chatbox = document.getElementById('fb-customer-chat')
-chatbox.setAttribute('page_id', process.env.FACEBOOK_PAGE_ID)
+chatbox.setAttribute('page_id', '105367497522198')
 chatbox.setAttribute('attribution', 'biz_inbox')
 
 const vue_fb = {}
@@ -27,7 +27,7 @@ vue_fb.install = function install(Vue, options) {
 }
 
 Vue.use(vue_fb, {
-  appId: process.env.FACEBOOK_PAGE_ID,
+  appId: '105367497522198',
   autoLogAppEvents: true,
   xfbml: true,
   version: 'v2.9',
